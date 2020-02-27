@@ -1,0 +1,11 @@
+D:\Users\mmines\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.exe
+D:\Users\mmines\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.deps.json
+D:\Users\mmines\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.json
+D:\Users\mmines\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.dev.json
+D:\Users\mmines\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.dll
+D:\Users\mmines\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.pdb
+D:\Users\mmines\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csprojAssemblyReference.cache
+D:\Users\mmines\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfoInputs.cache
+D:\Users\mmines\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfo.cs
+D:\Users\mmines\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.dll
+D:\Users\mmines\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.pdb
